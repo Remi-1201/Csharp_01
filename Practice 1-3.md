@@ -33,6 +33,7 @@
 
 ## 6
 
+<div align="center"><img src="https://user-images.githubusercontent.com/97021497/211963177-b8f51797-31de-4571-a7a2-bfd6405ce46a.png"></div> 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/211736634-bc020efc-1f3d-412f-ad25-78a0d76a9140.png"></div> 
 <div align="center"><img src="https://user-images.githubusercontent.com/97021497/211736697-757b7b9a-e402-4f29-9016-c8c73cbf05ce.png"></div> 
 
